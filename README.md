@@ -27,3 +27,11 @@ cmd + d
 ```sh
 yarn add -D typescript @types/jest @types/react @types/react-native @types/react-test-renderer
 ```
+
+## Ferramentas para Debug
+
+- https://fbflipper.com/docs/getting-started/
+
+## Ferramentas para Documentação
+
+- https://devdocs.io/
