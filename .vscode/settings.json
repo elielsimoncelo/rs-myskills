@@ -1,0 +1,8 @@
+{
+  "editor.autoClosingQuotes": "always",
+  "javascript.preferences.quoteStyle": "single",
+  "editor.rulers": [
+    80,
+    120
+  ],
+}
